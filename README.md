@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal Yanık</h1>
 <h3 align="center">A passionate senior software developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bll&label=Profile%20views&color=0e75b6&style=flat" alt="bll" /> </p>
-
 - 🔭 I’m currently working on Mobven [Mac+](https://www.macfit.com/)
 
 - 🌱 I’m currently learning **Domain Driven Design aka DDD**
